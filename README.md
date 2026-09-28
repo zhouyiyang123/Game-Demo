@@ -1,2 +1,2 @@
 # Game-Demo
-从release里下载程序
+从Releases里下载程序
